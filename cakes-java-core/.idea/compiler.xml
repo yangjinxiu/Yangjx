@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cakes-java-core.basis.main" target="1.8" />
+      <module name="cakes-java-core.basis.test" target="1.8" />
+      <module name="cakes-java-core.collections.main" target="1.8" />
+      <module name="cakes-java-core.collections.test" target="1.8" />
+      <module name="cakes-java-core.date.main" target="1.8" />
+      <module name="cakes-java-core.date.test" target="1.8" />
+      <module name="cakes-java-core.exception.main" target="1.8" />
+      <module name="cakes-java-core.exception.test" target="1.8" />
+      <module name="cakes-java-core.io.main" target="1.8" />
+      <module name="cakes-java-core.io.test" target="1.8" />
+      <module name="cakes-java-core.java8.main" target="1.8" />
+      <module name="cakes-java-core.java8.test" target="1.8" />
+      <module name="cakes-java-core.jdbc.main" target="1.8" />
+      <module name="cakes-java-core.jdbc.test" target="1.8" />
+      <module name="cakes-java-core.nio.main" target="1.8" />
+      <module name="cakes-java-core.nio.test" target="1.8" />
+      <module name="cakes-java-core.oop.main" target="1.8" />
+      <module name="cakes-java-core.oop.test" target="1.8" />
+      <module name="cakes-java-core.reflect.main" target="1.8" />
+      <module name="cakes-java-core.reflect.test" target="1.8" />
+      <module name="cakes-java-core.socket.main" target="1.8" />
+      <module name="cakes-java-core.socket.test" target="1.8" />
+      <module name="cakes-java-core.string.main" target="1.8" />
+      <module name="cakes-java-core.string.test" target="1.8" />
+      <module name="cakes-java-core.thread.main" target="1.8" />
+      <module name="cakes-java-core.thread.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
